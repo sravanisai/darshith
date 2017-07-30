@@ -1,7 +1,7 @@
 package sample;
 
 public class StringReverce {
-	//dgfhg
+	
 	public void add(int a,int b)
 	{
 	System.out.println(a+b +"it is sum of a and b");	
